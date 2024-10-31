@@ -11,7 +11,7 @@
 
 #' Please set the directory of the present script as the working folder
 #' Note: the path is denoted by forward slash "/"
-setwd("D:/path/to/Rhea")
+setwd("C:/Users/usm20749/OneDrive/Misbah_Analysis/Rhea-master")
 
 
 ######                  NO CHANGES ARE NEEDED BELOW THIS LINE               ######
